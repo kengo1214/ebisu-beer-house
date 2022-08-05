@@ -7,7 +7,7 @@ export default function Home() {
     <div className={styles.container}>
       <Head>
         <title>Beer House</title>
-        <meta name="description" content="BeerHouse（恵比寿＆渋谷）" />
+        <meta name="description" content="BeerHouse（恵比寿・渋谷）" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <main className={styles.main}>
